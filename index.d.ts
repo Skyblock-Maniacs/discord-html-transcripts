@@ -1,4 +1,4 @@
-declare module "discord-html-transcripts" {
+declare module "discord-html-transcripts-ahmed" {
   import type {
     Message,
     TextChannel,
